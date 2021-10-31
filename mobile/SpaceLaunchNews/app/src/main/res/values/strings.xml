@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpaceLaunchNews</string>
+
+    <string name="saved_info">Here you will find the articles you like</string>
+    <string name="search">Search articles</string>
+
+    <string name="no_internet">No Internet connection</string>
+    <string name="error">An error occurred:</string>
+    <string name="delete_article">Successfully deleted article</string>
+    <string name="undo">Undo</string>
+    <string name="article_save">Article saved successfully</string>
+
+    <string name="not_found_snackbar">We could not find any articles that matches your request</string>
+    <string name="thats_all">There are no more articles matching your request</string>
+
+</resources>
